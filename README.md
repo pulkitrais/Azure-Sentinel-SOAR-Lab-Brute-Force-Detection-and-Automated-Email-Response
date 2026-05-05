@@ -1,6 +1,6 @@
 # Microsoft Sentinel SOAR Lab: Brute Force Detection & Automated Email Response
 
-**Author:** Pulkit Rais  
+**Author:** Pulkit Rai  
 **Lab Environment:** Microsoft Azure  
 **Platform:** Microsoft Sentinel (SIEM + SOAR)  
 **Report Date:** May 2025  
