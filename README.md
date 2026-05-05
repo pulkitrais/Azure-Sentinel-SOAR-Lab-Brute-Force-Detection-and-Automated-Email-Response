@@ -1,0 +1,1 @@
+# Azure-Sentinel-SOAR-Lab-Brute-Force-Detection-and-Automated-Email-Response
